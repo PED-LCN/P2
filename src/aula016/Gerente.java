@@ -12,7 +12,6 @@ public class Gerente extends Funcionario {
     }
 
     public String getTipoCargo() {
-        String gerente = "Gerente";
-        return gerente;
+        return "Gerente";
     }
 }
